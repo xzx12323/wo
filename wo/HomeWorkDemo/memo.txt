@@ -1,0 +1,10 @@
+﻿采用 Winform 
+涉及技术：
+
+1，委托
+2，多线程
+3，Linq
+4，文件流
+5，三元表达式
+6，读写xml   XDocument
+7，网络请求  HttpWebRequest

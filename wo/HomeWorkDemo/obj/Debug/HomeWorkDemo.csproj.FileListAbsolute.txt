@@ -1,0 +1,12 @@
+E:\HomeWorkDemo\HomeWorkDemo\bin\Debug\HomeWorkDemo.exe.config
+E:\HomeWorkDemo\HomeWorkDemo\bin\Debug\HomeWorkDemo.exe
+E:\HomeWorkDemo\HomeWorkDemo\bin\Debug\HomeWorkDemo.pdb
+E:\HomeWorkDemo\HomeWorkDemo\obj\Debug\HomeWorkDemo.csprojResolveAssemblyReference.cache
+E:\HomeWorkDemo\HomeWorkDemo\obj\Debug\HomeWorkDemo.AddorModifyForm.resources
+E:\HomeWorkDemo\HomeWorkDemo\obj\Debug\HomeWorkDemo.Form1.resources
+E:\HomeWorkDemo\HomeWorkDemo\obj\Debug\HomeWorkDemo.ManagementForm.resources
+E:\HomeWorkDemo\HomeWorkDemo\obj\Debug\HomeWorkDemo.Properties.Resources.resources
+E:\HomeWorkDemo\HomeWorkDemo\obj\Debug\HomeWorkDemo.RegisterForm.resources
+E:\HomeWorkDemo\HomeWorkDemo\obj\Debug\HomeWorkDemo.csproj.GenerateResource.Cache
+E:\HomeWorkDemo\HomeWorkDemo\obj\Debug\HomeWorkDemo.exe
+E:\HomeWorkDemo\HomeWorkDemo\obj\Debug\HomeWorkDemo.pdb
